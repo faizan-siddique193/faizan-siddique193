@@ -4,7 +4,7 @@
 
 Co-Founder at **Simphic**, building software and automation solutions for modern businesses.
 
-Currently building **AgencyOS** — an AI-powered operating system for software agencies.
+Currently building **AgencyOS** — Helps Agencies to push their project without losing money.
 
 ---
 
@@ -101,11 +101,11 @@ TypeScript • JavaScript • Python
 
 **Frontend**
 
-Next.js • React • Tailwind CSS • shadcn/ui
+Next.js • React • Tailwind CSS • shadcn/ui • Material UI 
 
 **Backend**
 
-Node.js • Express.js • FastAPI • Prisma
+Node.js • Express.js • FastAPI • Prisma • Mongoose
 
 **Databases**
 
