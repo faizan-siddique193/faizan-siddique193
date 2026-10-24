@@ -1,131 +1,78 @@
 # Faizan Siddique
 
-**Full Stack Software Engineer** building scalable SaaS products, AI-powered workflows, and modern web applications.
+**Full-Stack & AI Systems Engineer** architecting agentic workflows and multi-tenant SaaS platforms that actually scale.
 
-Co-Founder at **Simphic**, building software and automation solutions for modern businesses.
-
-Currently building **AgencyOS** — Helps Agencies to push their project without losing money.
-
----
-
-## What I'm Building
-
-My work focuses on designing and shipping production-ready software across the entire product lifecycle—from architecture and backend systems to frontend experiences and AI integrations.
-
-I'm particularly interested in:
-
-* SaaS architecture & multi-tenant systems
-* AI agents & workflow automation
-* Authentication & authorization
-* Backend architecture & API design
-* Database design & performance optimization
-* Developer experience
+- 🧠 **AI/ML Trainee** at **Futurenostics** — Bridging raw data pipelines and production AI architecture.
+- 🏗️ **Co-Founder** at **Simphic** — Designing core infrastructure and B2B software solutions.
+- 🚀 **Currently Building:** **AdAura** —I am building an 𝗔𝗜-𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗮𝗱𝘃𝗲𝗿𝘁𝗶𝘀𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 for small and medium fashion brands. It puts the 𝗳𝘂𝗹𝗹 𝗮𝗱 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄 in one place: campaign planning, AI content generation, built-in quality review, direct publishing to ad platforms, and live performance tracking with 𝗱𝗮𝘁𝗮-𝗯𝗮𝗰𝗸𝗲𝗱 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝘀𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻𝘀.
 
 ---
 
-## Engineering Philosophy
+## ⚡ Engineering Philosophy & Focus
 
-I believe software should be **simple**, **maintainable**, **observable**, and **scalable**.
+I believe software should be **simple**, **maintainable**, **observable**, and **scalable**. Every architectural decision is a trade-off; I focus on building systems that solve real business bottlenecks rather than shipping isolated scripts or thin AI wrappers.
 
-I enjoy solving business problems through thoughtful system design, clean implementation, and long-term maintainability. Every architectural decision is a trade-off, and I strive to choose solutions that remain reliable as products grow.
-
----
-
-## Featured Projects
-
-### 🚀 AgencyOS *(Active Development)*
-
-An AI-powered operating system for software agencies.
-
-A multi-tenant platform designed to centralize projects, clients, team collaboration, and agency operations with a strong focus on scalable architecture and developer experience.
-
-**Core Areas**
-
-* Multi-tenancy
-* Workspace isolation
-* Authentication & RBAC
-* Project management
-* Client portal
-* AI-powered workflows
-
-→ Repository: **AgencyOS**
+- **Multi-Tenant SaaS Architecture:** Strict workspace isolation, row-level security, and granular RBAC.
+- **Agentic AI & Orchestration:** Autonomous multi-agent workflows, RAG pipelines, and vector search.
+- **Backend & Database Engineering:** High-concurrency API design, schema modeling, and query optimization.
+- **Specification-Driven Delivery:** Translating complex business logic into clean C4 topologies and production code.
 
 ---
 
-### 🩺 MediTriage AI
+## 🛠️ Featured Systems
 
-A multi-agent medical triage platform that combines Retrieval-Augmented Generation (RAG), specialized AI agents, and intelligent routing to assist with patient intake and symptom analysis.
+### 🚀 [AgencyOS](https://github.com/faizan-siddique193/AgencyOS) *(Active Development)*
+**Multi-Tenant Operating System for Software Agencies**
+A centralized platform built to manage agency operations, client deliverables, and team workflows with strict tenant isolation.
+- **Architecture Highlights:** Multi-tenancy, Workspace Isolation, RBAC, Client Portals, Automated Workflows
+- **Stack:** `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma`
 
-→ Repository: **MediTriage AI**
+### ✨ [AdAura](https://github.com/faizan-siddique193/AdAura) *(Active Development)*
+**AI-Powered Marketing Automation SaaS**
+End-to-end campaign generation and ad automation platform designed for fashion and e-commerce brands.
+- **Architecture Highlights:** Multi-agent orchestration, Meta API integration, subscription billing
+- **Stack:** `Next.js` `FastAPI` `LangGraph` `Supabase` `Paddle`
 
----
+### 🩺 [MediTriage AI](https://github.com/faizan-siddique193/MediTriage-AI)
+**Multi-Agent Medical Triage & Intake Platform**
+Combines Retrieval-Augmented Generation (RAG), specialized clinical agents, and intelligent routing to streamline patient symptom analysis.
+- **Stack:** `Python` `FastAPI` `LangChain` `Groq` `ChromaDB`
 
-### 📚 BookNest
-
-A full-stack reading platform exploring personalized recommendations, modern product architecture, and AI-assisted discovery.
-
-→ Repository: **BookNest**
-
----
-
-## Engineering Focus
-
-* SaaS Platforms
-* Software Architecture
-* System Design
-* Multi-Tenant Applications
-* AI Integrations
-* Backend Engineering
-* PostgreSQL
-* Developer Experience
+### 📚 [BookNest](https://github.com/faizan-siddique193/BookNest)
+**AI-Assisted Reading & Discovery Platform**
+Full-stack application exploring personalized recommendation engines and modern web architecture.
+- **Stack:** `Next.js` `Node.js` `Express` `MongoDB`
 
 ---
 
-## Current Roadmap
+## 🗺️ Current Engineering Roadmap (AgencyOS)
 
-* ✅ Building AgencyOS core platform
-* ✅ Multi-tenant workspace architecture
-* ✅ Authentication & role-based access control
-* 🔄 AI-powered agency workflows
-* 🔄 Client collaboration platform
-* 🔄 Billing & subscription management
-* 🔄 Technical architecture documentation
-
----
-
-## Tech Stack
-
-**Languages**
-
-TypeScript • JavaScript • Python
-
-**Frontend**
-
-Next.js • React • Tailwind CSS • shadcn/ui • Material UI 
-
-**Backend**
-
-Node.js • Express.js • FastAPI • Prisma • Mongoose
-
-**Databases**
-
-PostgreSQL • MongoDB
-
-**AI**
-
-LangChain • n8n • Groq • ChromaDB • Pinecone
-
-**Infrastructure**
-
-Docker • Vercel • Neon
+- [x] Core platform foundation & database schema
+- [x] Multi-tenant workspace isolation architecture
+- [x] Authentication & Role-Based Access Control (RBAC)
+- [ ] AI-powered agency workflow automation
+- [ ] Client portal & real-time collaboration module
+- [ ] Subscription billing & tenant usage metering
 
 ---
 
-## Connect
+## 💻 Tech Stack
 
-* 🌐 Portfolio — https://faizansiddique-portfolio.vercel.app
-* 💼 LinkedIn — https://linkedin.com/in/faizan-siddique-b20962298
-* 💻 GitHub — https://github.com/faizan-siddique193
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript • Python • JavaScript • SQL |
+| **AI & Orchestration** | LangChain • LangGraph • RAG Pipelines • Groq • Pinecone • ChromaDB • n8n |
+| **Backend** | FastAPI • Node.js • Express.js • NestJS • Prisma • Mongoose |
+| **Frontend** | Next.js • React • Tailwind CSS • shadcn/ui |
+| **Data & Infra** | PostgreSQL • Supabase • Neon • MongoDB • Docker • Vercel |
+
+---
+
+## 🤝 Connect
+
+- 🌐 **Portfolio:** [faizansiddique-portfolio.vercel.app](https://faizansiddique-portfolio.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/faizan-siddique-b20962298](https://linkedin.com/in/faizan-siddique-b20962298)
+- 📧 **Email:** [contact.faizan193@gmail.com](mailto:contact.faizan193@gmail.com)
 
 ---
 
