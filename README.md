@@ -8,7 +8,7 @@
 
 ## Current Work
 
-- **AI/ML Trainee @ Futurenostics** — Bridging raw data pipelines and production AI architecture.
+- **Former AI/ML Trainee @ Futurenostics** — Bridging raw data pipelines and production AI architecture.
 - **Co-Founder @ Simphic** — Designing core infrastructure, system topologies, and B2B software architectures.
 - **Architecting AdAura & AgencyOS** — Shipping autonomous multi-agent AI pipelines and strictly isolated multi-tenant SaaS infrastructure.
 
