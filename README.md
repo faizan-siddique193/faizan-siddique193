@@ -43,7 +43,7 @@ An enterprise web platform that replaces fragmented marketing tools with a unifi
 
 ## Featured Systems
 
-### [AgencyOS](https://github.com/faizan-siddique193/AgencyOS) *(Active Development)*
+### [AgencyOS](https://github.com/faizan-siddique193/agency-os) *(Active Development)*
 Multi-tenant operating system engineered to help software agencies centralize operations, ship on time, and protect their margins.
 
 - **Architecture:** Multi-tenancy, strict workspace isolation, RBAC, client portals, automated workflows
