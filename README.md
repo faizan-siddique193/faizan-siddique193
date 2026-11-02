@@ -80,7 +80,7 @@ Full-stack reading platform exploring personalized recommendation engines and AI
 | :--- | :--- |
 | **Languages** | `TypeScript` `Python` `JavaScript` `SQL` |
 | **AI & Orchestration** | `LangGraph` `LangChain` `RAG` `Groq` `Pinecone` `ChromaDB` `n8n` |
-| **Backend** | `FastAPI` `Node.js` `Express` `NestJS` `Prisma` `Mongoose` |
+| **Backend** | `FastAPI` `Node.js` `Express` `Prisma` `Mongoose` |
 | **Frontend** | `Next.js` `React` `Tailwind CSS` `shadcn/ui` |
 | **Data & Infra** | `PostgreSQL` `Supabase` `Neon` `MongoDB` `Docker` `Vercel` |
 
