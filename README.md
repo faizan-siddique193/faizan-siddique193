@@ -50,12 +50,12 @@ Multi-tenant operating system engineered to help software agencies centralize op
 - **Stack:** `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma`
 - **Status:** Core foundation, tenant isolation, and RBAC auth complete. Building AI workflow automation, client portals, and usage metering next.
 
-### [MediTriage AI](https://github.com/faizan-siddique193/MediTriage-AI)
+### [MediTriage AI](https://github.com/faizan-siddique193/MediTriage)
 Multi-agent clinical triage platform combining Retrieval-Augmented Generation (RAG), specialized diagnostic agents, and intelligent symptom routing.
 
 - **Stack:** `Python` `FastAPI` `LangChain` `Groq` `ChromaDB`
 
-### [refund_approval_system](https://github.com/faizan-siddique193/refund_approval_system)
+### [refund_approval_system](https://github.com/faizan-siddique193/refund-approval-system)
 Automated decision and workflow engine designed to evaluate, route, and process customer refund requests using rule-based and AI-assisted validation pipelines.
 
 - **Architecture:** Automated claim evaluation, deterministic routing logic, approval state management
